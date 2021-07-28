@@ -1,5 +1,7 @@
 # 宵宫计划
 
+![](./yoimiya.jpeg)
+
 ## Mergeable
 
 | 材料名称`\`材料等阶 | I | II | III | IV | V |
